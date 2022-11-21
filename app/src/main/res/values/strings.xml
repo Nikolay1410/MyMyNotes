@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="dey_of_week">День недели:</string>
+    <string name="hint_title">Заголовок заметки:</string>
+    <string name="hint_description">Описание заметки:</string>
+    <string name="button_save_note">Добавить заметку</string>
+    <string name="add_title">Выберите приоритет заметки</string>
+    <string name="edit_note">Изменить заметку</string>
+    <string name="one">1</string>
+    <string name="too">2</string>
+    <string name="fry">3</string>
+    <string name="button_sort">Кнопка сортировки</string>
+    <string name="data">По дате</string>
+    <string name="priority">По приоритету</string>
+    <string name="todo">TODO</string>
+    <string name="_1">1</string>
+    <string name="sick_desc">Выберите срок на какое количество дней назад необходимо веднутся чтобы востановить удаленные заметки?</string>
+    <string name="exit">Выйти</string>
+</resources>
